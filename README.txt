@@ -15,3 +15,7 @@
 </policy>
 
 NOTE : "com.giann.NameOfProcess" is name of connection in dbus
+
+===step4 : enter src directory and type make===
++ cd src
++ make
